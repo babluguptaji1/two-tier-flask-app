@@ -1,0 +1,2 @@
+this is a dummy file for jenkins demo-cicd pipeline syntax script 
+  this file is making purpose to my this file viewable in ubuntu when i am attached jenkins in ubuntu kernal or not?
